@@ -39,7 +39,7 @@ Based on ComplexHeatmap. A simple shiny app for upload files to generate heatmap
 ```R
 ## install devtools
 if (!require('devtools')) install.packages("devtools");
-if (!require("CHeatmapShiny")) devtools::install_github(ShawnWx2019/CHeatmapShiny);
+if (!require("CHeatmapShiny")) devtools::install_github("ShawnWx2019/CHeatmapShiny");
 ```
 
 ## Usage:
