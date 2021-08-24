@@ -1,0 +1,29 @@
+Package: CHeatmapShiny
+Title: An Amazing Shiny App
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Shawn",
+           family = "Wang",
+           role = c("aut", "cre"),
+           email = "shawnwang2016@126.com")
+Description: shinyapp for ComplexHeatmap.
+License: What license is it under?
+Imports: 
+    config (>= 0.3.1),
+    golem (>= 0.3.1),
+    shiny (>= 1.6.0),
+    ComplexHeatmap,
+    DT,
+    InteractiveComplexHeatmap,
+    circlize,
+    colourpicker,
+    dashboardthemes,
+    shinydashboard,
+    shinyjqui,
+    shinyjs,
+    shinythemes,
+    stringr,
+    tidyverse
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.1
