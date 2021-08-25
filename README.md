@@ -36,8 +36,7 @@ Based on ComplexHeatmap. A simple shiny app for upload files to generate heatmap
 	1. **Hclust**  
  
 		a. Distance: follow Rbase dist description: [dist: Distance Matrix Computation](https://www.rdocumentation.org/packages/stats/versions/3.6.2/topics/dist)  
-
-              	b. Method: follow Rbase hclust description: [hclust: Hierarchical](Clustering]https://www.rdocumentation.org/packages/stats/versions/3.6.2/topics/hclust)  
+		b. Method: follow Rbase hclust description: [hclust: Hierarchical Clustering](https://www.rdocumentation.org/packages/stats/versions/3.6.2/topics/hclust)  
 
 	2. **Kmeans**
 
