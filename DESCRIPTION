@@ -7,7 +7,7 @@ Authors@R:
            role = c("aut", "cre"),
            email = "shawnwang2016@126.com")
 Description: shinyapp for ComplexHeatmap.
-License: What license is it under?
+License: MIT
 Imports: 
     config (>= 0.3.1),
     golem (>= 0.3.1),
