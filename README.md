@@ -69,5 +69,5 @@ if (!require("CHeatmapShiny")) devtools::install_github("ShawnWx2019/CHeatmapShi
 ```R
 library(CHeatmapShiny)
 library(tidyverse)
-run_CHeatmapShiny()
+run_CheatmapShiny()
 ```
