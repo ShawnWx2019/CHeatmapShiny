@@ -73,6 +73,6 @@ if (!require('CHeatmapShiny')) devtools::install_github("ShawnWx2019/CHeatmapShi
 ```R
 library(CHeatmapShiny)
 library(tidyverse)
-options(shiny.maxRequestSize = 300*1024^2) ##if your matrix is soooo big, please run the code first
+options(shiny.maxRequestSize = 300*1024^2) ##if your upload matrix is soooo big, please run the code first!
 run_CheatmapShiny()
 ```
