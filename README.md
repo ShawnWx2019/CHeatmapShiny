@@ -1,4 +1,5 @@
 # CHeatmapShiny App
+**Required R 4.1, please update R to version 4.1**
 
 Based on ComplexHeatmap. A simple shiny app for upload files to generate heatmap by CoomplexHeatmap.
 
