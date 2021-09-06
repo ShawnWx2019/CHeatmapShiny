@@ -63,8 +63,8 @@ Based on ComplexHeatmap. A simple shiny app for upload files to generate heatmap
 if (!require('devtools')) install.packages("devtools");
 if (!require('tidyverse')) install.packages("tidyverse");
 if (!requireNamespace("BiocManager", quietly = TRUE)) install.packages("BiocManager");
-if(!require('ComplexHeatmap')) BiocManager::install("ComplexHeatmap");
-if(!require('InteractiveComplexHeatmap')) BiocManager::install("InteractiveComplexHeatmap");
+if(!require('ComplexHeatmap')) devtools::install_github("jokergoo/ComplexHeatmap");
+if(!require('InteractiveComplexHeatmap')) devtools::install_github("jokergoo/InteractiveComplexHeatmap");
 ## install CHeatmapShiny
 if (!require('CHeatmapShiny')) devtools::install_github("ShawnWx2019/CHeatmapShiny");
 ```
